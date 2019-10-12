@@ -1,0 +1,19 @@
+
+#roulette {
+    display: inline-block
+}
+#roulette img {
+    display: inline-block;
+    width: 100px;
+    margin: 5px
+}
+
+#wrapper {
+    width: 400px;
+    height: 400px;
+}
+
+#wrapper img {
+    height: 380px;
+    margin-bottom: 10px;
+}
